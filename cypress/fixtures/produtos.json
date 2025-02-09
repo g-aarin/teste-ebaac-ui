@@ -1,0 +1,20 @@
+[
+    {
+        "nomeProduto": "Abominable Hoodie",
+        "tamanho": "XS",
+        "cor": "Blue",
+        "quantidade": 3
+    },
+    {
+        "nomeProduto": "Ingrid Running Jacket",
+        "tamanho": "S",
+        "cor": "White",
+        "quantidade": 5
+    },
+    {
+        "nomeProduto": "Eos V-Neck Hoodie",
+        "tamanho": "M",
+        "cor": "Green",
+        "quantidade": 6
+    }
+]
