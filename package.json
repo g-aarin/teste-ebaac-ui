@@ -4,7 +4,8 @@
   "description": "Ebac aula Cypress",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx cypress run --browser chrome",
+    "cy:dash": "npx cypress run --record --key b4689487-a019-4d88-8e24-98bbc0b69783"
   },
   "repository": {
     "type": "git",
